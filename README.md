@@ -1,7 +1,6 @@
 # eko-final-stage
 
-## code instruction
-### concept
+## code instruction => concept & code explaination
 ```js
 function sortBy (a, b) {
   return a - b
